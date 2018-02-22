@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vladi/CLionProjects/++Algorithms/floating_point_digits.c
+floating_point_digits.h
+/home/vladi/CLionProjects/++Algorithms/floating_point_digits.h
+
+/home/vladi/CLionProjects/++Algorithms/floating_point_digits.h
+
+/home/vladi/CLionProjects/++Algorithms/main.c
+stdio.h
+-
+floating_point_digits.h
+/home/vladi/CLionProjects/++Algorithms/floating_point_digits.h
+

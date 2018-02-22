@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/__Algorithms.dir/main.c.o CMakeFiles/__Algorithms.dir/floating_point_digits.c.o  -o __Algorithms 
