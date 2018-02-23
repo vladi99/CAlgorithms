@@ -7,7 +7,11 @@ CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digit
 CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o: ../FundamentalMath/Matrixes/diagonal_matrix.c
 CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o: ../FundamentalMath/Matrixes/diagonal_matrix.h
 
+CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/spiral_matrix.c.o: ../FundamentalMath/Matrixes/spiral_matrix.c
+CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/spiral_matrix.c.o: ../FundamentalMath/Matrixes/spiral_matrix.h
+
 CMakeFiles/__Algorithms.dir/main.c.o: ../FundamentalMath/IntegerDivision/floating_point_digits.h
 CMakeFiles/__Algorithms.dir/main.c.o: ../FundamentalMath/Matrixes/diagonal_matrix.h
+CMakeFiles/__Algorithms.dir/main.c.o: ../FundamentalMath/Matrixes/spiral_matrix.h
 CMakeFiles/__Algorithms.dir/main.c.o: ../main.c
 

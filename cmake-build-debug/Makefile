@@ -177,6 +177,33 @@ FundamentalMath/Matrixes/diagonal_matrix.c.s:
 	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.s
 .PHONY : FundamentalMath/Matrixes/diagonal_matrix.c.s
 
+FundamentalMath/Matrixes/spiral_matrix.o: FundamentalMath/Matrixes/spiral_matrix.c.o
+
+.PHONY : FundamentalMath/Matrixes/spiral_matrix.o
+
+# target to build an object file
+FundamentalMath/Matrixes/spiral_matrix.c.o:
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/spiral_matrix.c.o
+.PHONY : FundamentalMath/Matrixes/spiral_matrix.c.o
+
+FundamentalMath/Matrixes/spiral_matrix.i: FundamentalMath/Matrixes/spiral_matrix.c.i
+
+.PHONY : FundamentalMath/Matrixes/spiral_matrix.i
+
+# target to preprocess a source file
+FundamentalMath/Matrixes/spiral_matrix.c.i:
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/spiral_matrix.c.i
+.PHONY : FundamentalMath/Matrixes/spiral_matrix.c.i
+
+FundamentalMath/Matrixes/spiral_matrix.s: FundamentalMath/Matrixes/spiral_matrix.c.s
+
+.PHONY : FundamentalMath/Matrixes/spiral_matrix.s
+
+# target to generate assembly for a file
+FundamentalMath/Matrixes/spiral_matrix.c.s:
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/spiral_matrix.c.s
+.PHONY : FundamentalMath/Matrixes/spiral_matrix.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -219,6 +246,9 @@ help:
 	@echo "... FundamentalMath/Matrixes/diagonal_matrix.o"
 	@echo "... FundamentalMath/Matrixes/diagonal_matrix.i"
 	@echo "... FundamentalMath/Matrixes/diagonal_matrix.s"
+	@echo "... FundamentalMath/Matrixes/spiral_matrix.o"
+	@echo "... FundamentalMath/Matrixes/spiral_matrix.i"
+	@echo "... FundamentalMath/Matrixes/spiral_matrix.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

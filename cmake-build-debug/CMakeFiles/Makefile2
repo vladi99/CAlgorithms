@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /home/vladi/CLionProjects/++Algorithms/cmake-build-debug
 CMakeFiles/__Algorithms.dir/all:
 	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/depend
 	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/vladi/CLionProjects/++Algorithms/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target __Algorithms"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/vladi/CLionProjects/++Algorithms/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target __Algorithms"
 .PHONY : CMakeFiles/__Algorithms.dir/all
 
 # Include target in all.
@@ -76,7 +76,7 @@ all: CMakeFiles/__Algorithms.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/__Algorithms.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/vladi/CLionProjects/++Algorithms/cmake-build-debug/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/vladi/CLionProjects/++Algorithms/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/__Algorithms.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/vladi/CLionProjects/++Algorithms/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/__Algorithms.dir/rule

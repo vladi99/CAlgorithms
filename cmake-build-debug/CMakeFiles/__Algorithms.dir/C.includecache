@@ -20,6 +20,14 @@ diagonal_matrix.h
 
 /home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/diagonal_matrix.h
 
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/spiral_matrix.c
+stdio.h
+-
+spiral_matrix.h
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/spiral_matrix.h
+
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/spiral_matrix.h
+
 /home/vladi/CLionProjects/++Algorithms/main.c
 stdio.h
 -
@@ -27,4 +35,6 @@ FundamentalMath/IntegerDivision/floating_point_digits.h
 /home/vladi/CLionProjects/++Algorithms/FundamentalMath/IntegerDivision/floating_point_digits.h
 FundamentalMath/Matrixes/diagonal_matrix.h
 /home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/diagonal_matrix.h
+FundamentalMath/Matrixes/spiral_matrix.h
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/spiral_matrix.h
 
