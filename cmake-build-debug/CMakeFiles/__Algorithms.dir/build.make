@@ -81,43 +81,69 @@ CMakeFiles/__Algorithms.dir/main.c.o.provides: CMakeFiles/__Algorithms.dir/main.
 CMakeFiles/__Algorithms.dir/main.c.o.provides.build: CMakeFiles/__Algorithms.dir/main.c.o
 
 
-CMakeFiles/__Algorithms.dir/floating_point_digits.c.o: CMakeFiles/__Algorithms.dir/flags.make
-CMakeFiles/__Algorithms.dir/floating_point_digits.c.o: ../floating_point_digits.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vladi/CLionProjects/++Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/__Algorithms.dir/floating_point_digits.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/__Algorithms.dir/floating_point_digits.c.o   -c /home/vladi/CLionProjects/++Algorithms/floating_point_digits.c
+CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o: CMakeFiles/__Algorithms.dir/flags.make
+CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o: ../FundamentalMath/IntegerDivision/floating_point_digits.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vladi/CLionProjects/++Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o   -c /home/vladi/CLionProjects/++Algorithms/FundamentalMath/IntegerDivision/floating_point_digits.c
 
-CMakeFiles/__Algorithms.dir/floating_point_digits.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/__Algorithms.dir/floating_point_digits.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vladi/CLionProjects/++Algorithms/floating_point_digits.c > CMakeFiles/__Algorithms.dir/floating_point_digits.c.i
+CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vladi/CLionProjects/++Algorithms/FundamentalMath/IntegerDivision/floating_point_digits.c > CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.i
 
-CMakeFiles/__Algorithms.dir/floating_point_digits.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/__Algorithms.dir/floating_point_digits.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vladi/CLionProjects/++Algorithms/floating_point_digits.c -o CMakeFiles/__Algorithms.dir/floating_point_digits.c.s
+CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vladi/CLionProjects/++Algorithms/FundamentalMath/IntegerDivision/floating_point_digits.c -o CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.s
 
-CMakeFiles/__Algorithms.dir/floating_point_digits.c.o.requires:
+CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o.requires:
 
-.PHONY : CMakeFiles/__Algorithms.dir/floating_point_digits.c.o.requires
+.PHONY : CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o.requires
 
-CMakeFiles/__Algorithms.dir/floating_point_digits.c.o.provides: CMakeFiles/__Algorithms.dir/floating_point_digits.c.o.requires
-	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/floating_point_digits.c.o.provides.build
-.PHONY : CMakeFiles/__Algorithms.dir/floating_point_digits.c.o.provides
+CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o.provides: CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o.requires
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o.provides.build
+.PHONY : CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o.provides
 
-CMakeFiles/__Algorithms.dir/floating_point_digits.c.o.provides.build: CMakeFiles/__Algorithms.dir/floating_point_digits.c.o
+CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o.provides.build: CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o
+
+
+CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o: CMakeFiles/__Algorithms.dir/flags.make
+CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o: ../FundamentalMath/Matrixes/diagonal_matrix.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/vladi/CLionProjects/++Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o   -c /home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/diagonal_matrix.c
+
+CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/diagonal_matrix.c > CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.i
+
+CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/diagonal_matrix.c -o CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.s
+
+CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o.requires:
+
+.PHONY : CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o.requires
+
+CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o.provides: CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o.requires
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o.provides.build
+.PHONY : CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o.provides
+
+CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o.provides.build: CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o
 
 
 # Object files for target __Algorithms
 __Algorithms_OBJECTS = \
 "CMakeFiles/__Algorithms.dir/main.c.o" \
-"CMakeFiles/__Algorithms.dir/floating_point_digits.c.o"
+"CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o" \
+"CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o"
 
 # External object files for target __Algorithms
 __Algorithms_EXTERNAL_OBJECTS =
 
 __Algorithms: CMakeFiles/__Algorithms.dir/main.c.o
-__Algorithms: CMakeFiles/__Algorithms.dir/floating_point_digits.c.o
+__Algorithms: CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o
+__Algorithms: CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o
 __Algorithms: CMakeFiles/__Algorithms.dir/build.make
 __Algorithms: CMakeFiles/__Algorithms.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vladi/CLionProjects/++Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable __Algorithms"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/vladi/CLionProjects/++Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable __Algorithms"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/__Algorithms.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -126,7 +152,8 @@ CMakeFiles/__Algorithms.dir/build: __Algorithms
 .PHONY : CMakeFiles/__Algorithms.dir/build
 
 CMakeFiles/__Algorithms.dir/requires: CMakeFiles/__Algorithms.dir/main.c.o.requires
-CMakeFiles/__Algorithms.dir/requires: CMakeFiles/__Algorithms.dir/floating_point_digits.c.o.requires
+CMakeFiles/__Algorithms.dir/requires: CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o.requires
+CMakeFiles/__Algorithms.dir/requires: CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o.requires
 
 .PHONY : CMakeFiles/__Algorithms.dir/requires
 

@@ -123,32 +123,59 @@ __Algorithms/fast:
 	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/build
 .PHONY : __Algorithms/fast
 
-floating_point_digits.o: floating_point_digits.c.o
+FundamentalMath/IntegerDivision/floating_point_digits.o: FundamentalMath/IntegerDivision/floating_point_digits.c.o
 
-.PHONY : floating_point_digits.o
+.PHONY : FundamentalMath/IntegerDivision/floating_point_digits.o
 
 # target to build an object file
-floating_point_digits.c.o:
-	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/floating_point_digits.c.o
-.PHONY : floating_point_digits.c.o
+FundamentalMath/IntegerDivision/floating_point_digits.c.o:
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.o
+.PHONY : FundamentalMath/IntegerDivision/floating_point_digits.c.o
 
-floating_point_digits.i: floating_point_digits.c.i
+FundamentalMath/IntegerDivision/floating_point_digits.i: FundamentalMath/IntegerDivision/floating_point_digits.c.i
 
-.PHONY : floating_point_digits.i
+.PHONY : FundamentalMath/IntegerDivision/floating_point_digits.i
 
 # target to preprocess a source file
-floating_point_digits.c.i:
-	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/floating_point_digits.c.i
-.PHONY : floating_point_digits.c.i
+FundamentalMath/IntegerDivision/floating_point_digits.c.i:
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.i
+.PHONY : FundamentalMath/IntegerDivision/floating_point_digits.c.i
 
-floating_point_digits.s: floating_point_digits.c.s
+FundamentalMath/IntegerDivision/floating_point_digits.s: FundamentalMath/IntegerDivision/floating_point_digits.c.s
 
-.PHONY : floating_point_digits.s
+.PHONY : FundamentalMath/IntegerDivision/floating_point_digits.s
 
 # target to generate assembly for a file
-floating_point_digits.c.s:
-	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/floating_point_digits.c.s
-.PHONY : floating_point_digits.c.s
+FundamentalMath/IntegerDivision/floating_point_digits.c.s:
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/IntegerDivision/floating_point_digits.c.s
+.PHONY : FundamentalMath/IntegerDivision/floating_point_digits.c.s
+
+FundamentalMath/Matrixes/diagonal_matrix.o: FundamentalMath/Matrixes/diagonal_matrix.c.o
+
+.PHONY : FundamentalMath/Matrixes/diagonal_matrix.o
+
+# target to build an object file
+FundamentalMath/Matrixes/diagonal_matrix.c.o:
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o
+.PHONY : FundamentalMath/Matrixes/diagonal_matrix.c.o
+
+FundamentalMath/Matrixes/diagonal_matrix.i: FundamentalMath/Matrixes/diagonal_matrix.c.i
+
+.PHONY : FundamentalMath/Matrixes/diagonal_matrix.i
+
+# target to preprocess a source file
+FundamentalMath/Matrixes/diagonal_matrix.c.i:
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.i
+.PHONY : FundamentalMath/Matrixes/diagonal_matrix.c.i
+
+FundamentalMath/Matrixes/diagonal_matrix.s: FundamentalMath/Matrixes/diagonal_matrix.c.s
+
+.PHONY : FundamentalMath/Matrixes/diagonal_matrix.s
+
+# target to generate assembly for a file
+FundamentalMath/Matrixes/diagonal_matrix.c.s:
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.s
+.PHONY : FundamentalMath/Matrixes/diagonal_matrix.c.s
 
 main.o: main.c.o
 
@@ -186,9 +213,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... __Algorithms"
-	@echo "... floating_point_digits.o"
-	@echo "... floating_point_digits.i"
-	@echo "... floating_point_digits.s"
+	@echo "... FundamentalMath/IntegerDivision/floating_point_digits.o"
+	@echo "... FundamentalMath/IntegerDivision/floating_point_digits.i"
+	@echo "... FundamentalMath/IntegerDivision/floating_point_digits.s"
+	@echo "... FundamentalMath/Matrixes/diagonal_matrix.o"
+	@echo "... FundamentalMath/Matrixes/diagonal_matrix.i"
+	@echo "... FundamentalMath/Matrixes/diagonal_matrix.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

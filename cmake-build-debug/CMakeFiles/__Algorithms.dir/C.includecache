@@ -6,15 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/home/vladi/CLionProjects/++Algorithms/floating_point_digits.c
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/IntegerDivision/floating_point_digits.c
 floating_point_digits.h
-/home/vladi/CLionProjects/++Algorithms/floating_point_digits.h
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/IntegerDivision/floating_point_digits.h
 
-/home/vladi/CLionProjects/++Algorithms/floating_point_digits.h
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/IntegerDivision/floating_point_digits.h
+
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/diagonal_matrix.c
+stdio.h
+-
+diagonal_matrix.h
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/diagonal_matrix.h
+
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/diagonal_matrix.h
 
 /home/vladi/CLionProjects/++Algorithms/main.c
 stdio.h
 -
-floating_point_digits.h
-/home/vladi/CLionProjects/++Algorithms/floating_point_digits.h
+FundamentalMath/IntegerDivision/floating_point_digits.h
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/IntegerDivision/floating_point_digits.h
+FundamentalMath/Matrixes/diagonal_matrix.h
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/diagonal_matrix.h
 

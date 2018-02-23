@@ -74,10 +74,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/vladi/CLionProjects/++Algorithms/floating_point_digits.c">
+		<Unit filename="/home/vladi/CLionProjects/++Algorithms/FundamentalMath/IntegerDivision/floating_point_digits.c">
 			<Option target="__Algorithms"/>
 		</Unit>
-		<Unit filename="/home/vladi/CLionProjects/++Algorithms/floating_point_digits.h">
+		<Unit filename="/home/vladi/CLionProjects/++Algorithms/FundamentalMath/IntegerDivision/floating_point_digits.h">
+			<Option target="__Algorithms"/>
+		</Unit>
+		<Unit filename="/home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/diagonal_matrix.c">
+			<Option target="__Algorithms"/>
+		</Unit>
+		<Unit filename="/home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/diagonal_matrix.h">
 			<Option target="__Algorithms"/>
 		</Unit>
 		<Unit filename="/home/vladi/CLionProjects/++Algorithms/main.c">
