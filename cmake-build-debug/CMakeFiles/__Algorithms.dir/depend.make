@@ -10,8 +10,12 @@ CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/diagonal_matrix.c.o: ../Fun
 CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/spiral_matrix.c.o: ../FundamentalMath/Matrixes/spiral_matrix.c
 CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/spiral_matrix.c.o: ../FundamentalMath/Matrixes/spiral_matrix.h
 
+CMakeFiles/__Algorithms.dir/FundamentalMath/PrimeNumbers/eratosten.c.o: ../FundamentalMath/PrimeNumbers/eratosten.c
+CMakeFiles/__Algorithms.dir/FundamentalMath/PrimeNumbers/eratosten.c.o: ../FundamentalMath/PrimeNumbers/eratosten.h
+
 CMakeFiles/__Algorithms.dir/main.c.o: ../FundamentalMath/IntegerDivision/floating_point_digits.h
 CMakeFiles/__Algorithms.dir/main.c.o: ../FundamentalMath/Matrixes/diagonal_matrix.h
 CMakeFiles/__Algorithms.dir/main.c.o: ../FundamentalMath/Matrixes/spiral_matrix.h
+CMakeFiles/__Algorithms.dir/main.c.o: ../FundamentalMath/PrimeNumbers/eratosten.h
 CMakeFiles/__Algorithms.dir/main.c.o: ../main.c
 

@@ -204,6 +204,33 @@ FundamentalMath/Matrixes/spiral_matrix.c.s:
 	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/Matrixes/spiral_matrix.c.s
 .PHONY : FundamentalMath/Matrixes/spiral_matrix.c.s
 
+FundamentalMath/PrimeNumbers/eratosten.o: FundamentalMath/PrimeNumbers/eratosten.c.o
+
+.PHONY : FundamentalMath/PrimeNumbers/eratosten.o
+
+# target to build an object file
+FundamentalMath/PrimeNumbers/eratosten.c.o:
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/PrimeNumbers/eratosten.c.o
+.PHONY : FundamentalMath/PrimeNumbers/eratosten.c.o
+
+FundamentalMath/PrimeNumbers/eratosten.i: FundamentalMath/PrimeNumbers/eratosten.c.i
+
+.PHONY : FundamentalMath/PrimeNumbers/eratosten.i
+
+# target to preprocess a source file
+FundamentalMath/PrimeNumbers/eratosten.c.i:
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/PrimeNumbers/eratosten.c.i
+.PHONY : FundamentalMath/PrimeNumbers/eratosten.c.i
+
+FundamentalMath/PrimeNumbers/eratosten.s: FundamentalMath/PrimeNumbers/eratosten.c.s
+
+.PHONY : FundamentalMath/PrimeNumbers/eratosten.s
+
+# target to generate assembly for a file
+FundamentalMath/PrimeNumbers/eratosten.c.s:
+	$(MAKE) -f CMakeFiles/__Algorithms.dir/build.make CMakeFiles/__Algorithms.dir/FundamentalMath/PrimeNumbers/eratosten.c.s
+.PHONY : FundamentalMath/PrimeNumbers/eratosten.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -249,6 +276,9 @@ help:
 	@echo "... FundamentalMath/Matrixes/spiral_matrix.o"
 	@echo "... FundamentalMath/Matrixes/spiral_matrix.i"
 	@echo "... FundamentalMath/Matrixes/spiral_matrix.s"
+	@echo "... FundamentalMath/PrimeNumbers/eratosten.o"
+	@echo "... FundamentalMath/PrimeNumbers/eratosten.i"
+	@echo "... FundamentalMath/PrimeNumbers/eratosten.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -28,6 +28,14 @@ spiral_matrix.h
 
 /home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/spiral_matrix.h
 
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/PrimeNumbers/eratosten.c
+stdio.h
+-
+eratosten.h
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/PrimeNumbers/eratosten.h
+
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/PrimeNumbers/eratosten.h
+
 /home/vladi/CLionProjects/++Algorithms/main.c
 stdio.h
 -
@@ -37,4 +45,6 @@ FundamentalMath/Matrixes/diagonal_matrix.h
 /home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/diagonal_matrix.h
 FundamentalMath/Matrixes/spiral_matrix.h
 /home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/spiral_matrix.h
+FundamentalMath/PrimeNumbers/eratosten.h
+/home/vladi/CLionProjects/++Algorithms/FundamentalMath/PrimeNumbers/eratosten.h
 

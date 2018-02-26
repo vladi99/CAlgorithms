@@ -2,6 +2,7 @@
 #include "FundamentalMath/IntegerDivision/floating_point_digits.h"
 #include "FundamentalMath/Matrixes/diagonal_matrix.h"
 #include "FundamentalMath/Matrixes/spiral_matrix.h"
+#include "FundamentalMath/PrimeNumbers/eratosten.h"
 
 int main() {
     int i;
@@ -12,7 +13,8 @@ int main() {
 
 //    printf("Броят на цифрите на нецялото число %lf е %u\n", d, floatingPointDigits(d));
 //    diagonalMatrix(i);
-    spiralMatrix(i);
+//    spiralMatrix(i);
+    eratosten(i);
 
     return 0;
 }

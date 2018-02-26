@@ -92,6 +92,12 @@
 		<Unit filename="/home/vladi/CLionProjects/++Algorithms/FundamentalMath/Matrixes/spiral_matrix.h">
 			<Option target="__Algorithms"/>
 		</Unit>
+		<Unit filename="/home/vladi/CLionProjects/++Algorithms/FundamentalMath/PrimeNumbers/eratosten.c">
+			<Option target="__Algorithms"/>
+		</Unit>
+		<Unit filename="/home/vladi/CLionProjects/++Algorithms/FundamentalMath/PrimeNumbers/eratosten.h">
+			<Option target="__Algorithms"/>
+		</Unit>
 		<Unit filename="/home/vladi/CLionProjects/++Algorithms/main.c">
 			<Option target="__Algorithms"/>
 		</Unit>
