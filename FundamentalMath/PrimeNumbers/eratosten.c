@@ -7,7 +7,7 @@
 
 
 void eratosten(int n) {
-    int sieve[100000];
+    int sieve[n];
     int j, i = 2;
     while (i <= n) {
         if (sieve[i] != 1) {
